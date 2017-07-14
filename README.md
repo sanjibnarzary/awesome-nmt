@@ -30,7 +30,17 @@ Conference Title|Date|Abstract Deadline|Website|Country
 ----------------|----|-----------------|-------|-------
 
 ### List of Conferences
-
+- NAACL: North American Chapter of the Association for Computational Linguistics [web](http://naacl.org/)
+- IJCAI: International Joint Conferences on Artificial Intelligence [web](https://www.ijcai.org/)
+- ACL: The Association of Computer Linguistics [web](https://www.aclweb.org/portal/)
+- Interspeech: 
+- CoNLL
+- SigDial
+- INLG
+- EMNLP
+- COLING
+- SIGIR
+- EACL
 ## Journals
 
 ## Events & Workshops
